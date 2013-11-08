@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"webS",
+				"webSocketServer"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"clien",
+				"client_2"
+			],
+			[
+				"bas",
+				"base64"
+			],
+			[
+				"User",
+				"UserScore"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 121,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "grunt",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shenrong/.bashrc",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/daily.jade",
+		"/Users/shenrong/Dropbox/github/VPNCykoGM/vpnup-old.sh",
+		"/Users/shenrong/Dropbox/github/VPNCykoGM/vpndown-old.sh",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/Gruntfile.coffee",
+		"/Users/shenrong/Dropbox/github/VPNCykoGM/vpnup=old.sh",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/SublimeHighlight.sublime-settings",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/runTomorrow.sh",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/stylus/normal/daily.styl",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/dist/daily/20130923/daily.html",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/includes/temp/nd.js",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/coffee/pageController.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/includes/temp/daily.css",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/dist/temp/js/00-vec2.js",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/unsupported.jade",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/runall.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/imagewall.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/errno-404.jade",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/SublimeMagick.sublime-settings",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/deployment/shell.md",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/coffee/homePhoto.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/stylus/normal/mixins/contact.styl",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/syncfile.json",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/package.json",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/404.jade",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/dist/errno-404",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/dist/404.html",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/.gitignore",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/stylus/normal/errno-404.styl",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/coffee/static/errno-404.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/coffee/pageDrop.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/coffee/contact.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/includes/temp/errno-404.css",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/coffee/errno-404.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/coffee/errno_404.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/includes/icons.jade",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/gruntTasks/homeImage.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/gruntTasks/samplingImage.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/dist/daily/20130722/daily.html",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/runall.sh",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/stylus/normal/mixins/home.styl",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/Grunt2.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/design_thinking.md",
+		"/Users/shenrong/Dropbox/github/nextday-server/webserver/design_thinking.md",
+		"/Users/shenrong/tmp/testcanvas/.index.coffee",
+		"/Users/shenrong/tmp/first-project/server.coffee",
+		"/Users/shenrong/github/verlet-js/examples/shapes.html",
+		"/Users/shenrong/github/verlet-js/README.md",
+		"/Users/shenrong/github/verlet-js/js/verlet-js/vec2.js",
+		"/Users/shenrong/Dropbox/Temporary/gruntwatch/lib/html/2.html",
+		"/Users/shenrong/Dropbox/Temporary/gruntwatch/csstest.sublime-project",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/initializers/calendar.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/initializers/consts.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/servers/web.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/initializers/params.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/Gruntfile.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/public/stylus/nextday.styl",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/public/jade/1.jade",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/actions/outbox.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/actionOutboxUpd.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/actionOutboxAdd.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/schemas/nextdaySchemas.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/tasks/deliverGiftTask.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/servers/websocket.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/tools/helpers.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/modChangeId.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/srvRfcWebSocket.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/initializers/nextUtils.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/actions/envVars.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/actionCalendar.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/actionEnvVars.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/actionConsts.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/cson/node_modules/js2coffee/package.json",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/cson/node_modules/js2coffee/lib/narcissus_packed.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/faye/node_modules/cookiejar/tests/test.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/initializers/task.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/actions/log.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/actions/inbox.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/utils/validator.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/validation.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/models/consts.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/consts/timezone/version1.cson",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/actions/consts.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/initializers/nextRedis.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/initializers/timezone.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/schemas/timezoneIds.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/models/deliveryStatus.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/models/outbox.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/models/inbox.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/initializers/actionProcessor.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/initializers/genericServer.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/tools/runAction.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/rsync/rsync_server.md",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/config.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/tools/rfcWebSocketClient.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/servers/rfcWebSocket.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/public/js/1.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/public/stylus/1.styl",
+		"/Users/shenrong/tmp/sendMail/package.json",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/mocha.opts",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/actions/calendar.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/package.json",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/iniRfcWebSocket.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/websocket/lib/WebSocketRequest.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/nginx.conf",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/node.js/setup.md",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/redis/setup.md",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/redis/init.d",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/setup.md",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/rsync/rsyncd.conf",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/rsync/test.sh",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/rsync/rsyncd.secrets",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/src/routes.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/rsync/sync.sh",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/initializers/config.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/helpers/specHelper.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/initializers/connections.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/websocket/lib/WebSocketConnection.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/websocket/lib/WebSocketClient.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/config.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/test/tools/tlsTest.coffee",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/initializers/rfcWebSocket.js",
+		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/rsync.md",
+		"/System/Library/OpenSSL/openssl.cnf",
+		"/Users/shenrong/tmp/certs/request.conf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"<open files>",
+			"",
+			"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/dist",
+			"/Users/shenrong/tmp/first-project",
+			"/Users/shenrong/Dropbox/github/nextday-server/server",
+			"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero",
+			"/Users/shenrong/Dropbox/github/nextday-server/server/src",
+			"/Users/shenrong/github/nextday-server/server",
+			"/Users/shenrong/github/nextday-server/server/node_modules/mongoose",
+			"/Users/shenrong/tmp/actionHeroTest"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"?",
+			"*",
+			"grunt",
+			"1",
+			"aboutDescWidth\naboutDescWidth\naboutDescWidth",
+			"aboutDescWidth\naboutDescWidth",
+			"54.241.38",
+			"54.241.38.163",
+			"176.32",
+			"176.32.98",
+			"png",
+			"aboutDescCarousel",
+			"198.37",
+			"205.251",
+			"205.251.242",
+			"font-weight",
+			"stylus",
+			"resize",
+			"      @",
+			"checkBlobViewable",
+			"add",
+			"208.31.254",
+			"173.230.216",
+			"68.142",
+			"198.107.157",
+			"isProduction",
+			"uglify",
+			"embed",
+			"watch",
+			"copy",
+			"mkdir",
+			"173.194.127",
+			"mousedown",
+			"console",
+			"loadPhoto",
+			"renderImageMap",
+			"renderHomePhoto",
+			"setTimeout",
+			"@renderImageMap",
+			"Font",
+			"rsync",
+			"staging",
+			"renderImageMap",
+			"404",
+			"Welcome to Nextday",
+			"console",
+			"linkColor",
+			"canvasWidth",
+			"footerHeight",
+			"stylus",
+			"startX",
+			"canvasWidth",
+			".icon",
+			"left",
+			"iconPath",
+			"showData",
+			"stemplates",
+			"context",
+			"bufferData",
+			"imgData",
+			"staticPages",
+			"clearRect",
+			"segments",
+			"45",
+			"48",
+			"66",
+			"50",
+			"03",
+			"context",
+			"tree",
+			"shape",
+			"        // composite.constraints.push(new DistanceConstraint(composite.particles[i], composite.particles[1], 0.1));\n",
+			"AngleConstraint",
+			"requestAnimFrame",
+			"drawParticles",
+			"\"",
+			"199.96",
+			"next",
+			"sendFile",
+			"postVariables",
+			"determineRequestParams",
+			"350px",
+			"messages",
+			"jade",
+			"sender",
+			"Narcissus",
+			"CookieAccessInfo",
+			"actionHeroes",
+			"usersIdentify",
+			"\"",
+			",",
+			"\"",
+			"America",
+			"giftId",
+			"PATTERN",
+			"res",
+			"value",
+			"KEY_PATTERN",
+			"startServer",
+			"\"",
+			"getGiftData",
+			"nextday_server'",
+			"startingTs",
+			"inbox.get",
+			"64.130",
+			"slideshare",
+			"211.20",
+			"210.243",
+			"allTables",
+			"api.consts",
+			"\"",
+			"console",
+			"action",
+			"handleMessage",
+			"setIP",
+			"create",
+			"receiver1",
+			"\"",
+			"console",
+			"messageCount",
+			"setIP",
+			"setip",
+			"set",
+			"setip",
+			"\"",
+			"get",
+			"id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			": true",
+			"",
+			"'",
+			"",
+			"api.nextRedis.ns"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 111.0
+	},
+	"project": "advanced_gruntjs.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 419.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
