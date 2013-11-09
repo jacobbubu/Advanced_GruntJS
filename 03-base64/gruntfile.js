@@ -8,13 +8,13 @@ module.exports = function(grunt) {
       //     'dist/3.b64': ['files/3.txt']
       //   }
       // }
-      static_mappings: {
+      mapping: {
         files: [
           { src: ['files/{1..2}.txt'], dest: 'dist/1-2.b64'}
         , { src: ['files/3.txt'], dest: 'dist/3.b64'}
         ]
       },
-      dynamic_mappings: {
+      expanding: {
         files: [
           {
             expand: true
