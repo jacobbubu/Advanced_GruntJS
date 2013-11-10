@@ -32,10 +32,18 @@
 	"buffers":
 	[
 		{
-			"file": "package.json",
+			"file": "00-gettingStarted/gruntfile.js",
 			"settings":
 			{
-				"buffer_size": 121,
+				"buffer_size": 573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "00-gettingStarted/dist/gruntfile.min.js",
+			"settings":
+			{
+				"buffer_size": 363,
 				"line_ending": "Unix"
 			}
 		}
@@ -79,6 +87,11 @@
 	},
 	"file_history":
 	[
+		"/Users/shenrong/Dropbox/Meetings/jingjs2013/Advanced_GruntJS/03-base64/gruntfile.js",
+		"/Users/shenrong/Dropbox/Meetings/jingjs2013/Advanced_GruntJS/01-multiTask/gruntfile.js",
+		"/Users/shenrong/Dropbox/Meetings/jingjs2013/Advanced_GruntJS/README.md",
+		"/Users/shenrong/Dropbox/Meetings/jingjs2013/Advanced_GruntJS/advanced_gruntjs.sublime-project",
+		"/Users/shenrong/Dropbox/Meetings/jingjs2013/Advanced_GruntJS/package.json",
 		"/Users/shenrong/.bashrc",
 		"/Users/shenrong/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 		"/Users/shenrong/Dropbox/github/nextday-server-v4/webserver/src/jade/daily.jade",
@@ -201,12 +214,7 @@
 		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/actionHero/initializers/connections.js",
 		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/websocket/lib/WebSocketConnection.js",
 		"/Users/shenrong/Dropbox/github/nextday-server/server/node_modules/websocket/lib/WebSocketClient.js",
-		"/Users/shenrong/Dropbox/github/nextday-server/server/config.js",
-		"/Users/shenrong/Dropbox/github/nextday-server/server/test/tools/tlsTest.coffee",
-		"/Users/shenrong/Dropbox/github/nextday-server/server/initializers/rfcWebSocket.js",
-		"/Users/shenrong/Dropbox/github/nextday-server/server/deployment/staging/rsync.md",
-		"/System/Library/OpenSSL/openssl.cnf",
-		"/Users/shenrong/tmp/certs/request.conf"
+		"/Users/shenrong/Dropbox/github/nextday-server/server/config.js"
 	],
 	"find":
 	{
@@ -389,11 +397,40 @@
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "00-gettingStarted/gruntfile.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 121,
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								227,
+								227
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "00-gettingStarted/dist/gruntfile.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 363,
 						"regions":
 						{
 						},
@@ -406,7 +443,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -489,7 +526,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 419.0,
+	"side_bar_width": 122.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
