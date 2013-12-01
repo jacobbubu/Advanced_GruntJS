@@ -1,5 +1,5 @@
 {
-  "name": "Advanced GruntJS",
+  "name": "Advanced-GruntJS",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-uglify": "~0.2.5"
